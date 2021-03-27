@@ -19,5 +19,5 @@
 [![firebase2.png](https://i.postimg.cc/dt1H23Fs/firebase2.png)](https://postimg.cc/c6pBZs62)
 #
 ### เริ่มต้นการใช้งาน
-1.ดาวน์โหลดไฟล์โปรเจคและแตกไฟล์
-2.ก่อนรันต้องใช้คำสั่ง flutter pub get ใน temerminal
+#### 1.ดาวน์โหลดไฟล์โปรเจคและแตกไฟล์
+#### 2.ก่อนรันต้องใช้คำสั่ง flutter pub get ใน temerminal
