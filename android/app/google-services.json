@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080662135144",
+    "project_id": "chat-app-domelnwza007",
+    "storage_bucket": "chat-app-domelnwza007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080662135144:android:c793419548f1e7f0e686dd",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080662135144-13t6v44js7qr4oiu78h701jb7dp051bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPIrFWU38YhFHE3u87x-Ib2zr4tn-l0Pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080662135144-13t6v44js7qr4oiu78h701jb7dp051bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
