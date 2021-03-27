@@ -2,7 +2,7 @@
 #  
 ## ตัวอย่างโมบายแอปพลิเคชัน
 ### Link Youtube : https://youtu.be/SEOmpOX9HFs
-[![demo.png](https://i.postimg.cc/5yfGdSDL/demo.png)](https://postimg.cc/Q9nSc18d)
+[![demo2.png](https://i.postimg.cc/vBh6Y505/demo2.png)](https://postimg.cc/zbLfpHZf)
 #
 ### หน้าโมบายแอปพลิเคชัน
 #### 1.หน้าล็อกอิน เป็นหน้าแรกของโมบายแอปพลิเคชัน ต้องทำการสมัครสมาชิกก่อน
